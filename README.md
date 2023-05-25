@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TransUnion**
 
-- 🌱 I’m currently learning **Vue.js and AWS**
+- 🌱 I’m currently learning **Angular.js and AWS**
 
 - 👯 I’m looking to collaborate on **Challenging projects that give me new experiences and learning**
 
