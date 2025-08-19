@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Jimenez</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">Java Backend Software Engineer | Spring Boot & Microservices | PL/SQL, AWS, PostgreSQL</h3>
 
 - 🔭 I’m currently working on **TransUnion**
 
-- 🌱 I’m currently learning **Angular.js and AWS**
+- 🌱 I’m currently learning **English, AWS and Kafka**
 
 - 👯 I’m looking to collaborate on **Challenging projects that give me new experiences and learning**
 
@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **Through LinkedIn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kevin-santiago-jimenez-salamanca-63057b1b4/](https://www.linkedin.com/in/kevin-santiago-jimenez-salamanca-63057b1b4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kevinsantiagojimenez/](https://www.linkedin.com/in/kevinsantiagojimenez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevin-santiago-jimenez-salamanca-63057b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-santiago-jimenez-salamanca-63057b1b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevinsantiagojimenez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevinsantiagojimenez/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
