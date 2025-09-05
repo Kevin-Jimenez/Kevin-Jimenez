@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Jimenez</h1>
-<h3 align="center">Java Backend Software Engineer | Spring Boot & Microservices | PL/SQL, AWS, PostgreSQL</h3>
+<h3 align="center">Java Backend Developer | Software Backend Engineer | Spring Boot & Microservices | PL/SQL | AWS | PostgreSQL</h3>
 
-- 🔭 I’m currently working on **TransUnion**
+- 🔭 I’m currently working on **GFT Technologies**
 
 - 🌱 I’m currently learning **English, AWS and Kafka**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kevin-Jimenez?tab=repositories](https://github.com/Kevin-Jimenez?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Boot, Oracle**
 
 - 📫 How to reach me **Through LinkedIn**
 
